@@ -15,14 +15,14 @@ It currently collects the following information:
 
 External executables (and their sha256sum) needed - dated to 09.01.2017:
 
-56de17f38fbe0e94e4f5d8eaa4f6bd0f19f22435465c580bb8f8cc24a9671d60  openports.exe
-95929d46442af6beed922233774e195e5bdf363b5293e7b998ca796b43d663d3  pclip.exe
-033b81744e0bd4219a4d698894b8403bb67b525c96049cbfef34677d4d6fc85c  psfile64.exe
-e6901e8423da3e54bab25f7c90f60d3979bfa5bb61bcc46059662736253b8c72  pslist64.exe
-fdadb6e15c52c41a31e3c22659dd490d5b616e017d1b1aa6070008ce09ed27ea  PsLoggedon64.exe
-08a635a6e94423c6404215adfd60a5d48dd0743b0b8f6cea143f738d053d501e  psloglist.exe
-1a72da70694b3e00a8511c5035934461fc17ec4bfe9e04ee95860ecf926fa08d  win64dd.exe
-1871b1fc9ba82235ea9d24419db4f15764eda018d3b78e1aa8bc6298fa4b634c  win64dd.sys
+56de17f38fbe0e94e4f5d8eaa4f6bd0f19f22435465c580bb8f8cc24a9671d60  	openports.exe
+95929d46442af6beed922233774e195e5bdf363b5293e7b998ca796b43d663d3  	pclip.exe
+033b81744e0bd4219a4d698894b8403bb67b525c96049cbfef34677d4d6fc85c  	psfile64.exe
+e6901e8423da3e54bab25f7c90f60d3979bfa5bb61bcc46059662736253b8c72  	pslist64.exe
+fdadb6e15c52c41a31e3c22659dd490d5b616e017d1b1aa6070008ce09ed27ea  	PsLoggedon64.exe
+08a635a6e94423c6404215adfd60a5d48dd0743b0b8f6cea143f738d053d501e  	psloglist.exe
+1a72da70694b3e00a8511c5035934461fc17ec4bfe9e04ee95860ecf926fa08d  	win64dd.exe
+1871b1fc9ba82235ea9d24419db4f15764eda018d3b78e1aa8bc6298fa4b634c  	win64dd.sys
  
 Most of them are sysinternal tools. Due to copyright concerns I will not include them directly.
 As the goal must be to leave the memory as untouched as possible the executables are not checked for integrety before or after the program run. Do this by hand after you have finished gathering the information. 
